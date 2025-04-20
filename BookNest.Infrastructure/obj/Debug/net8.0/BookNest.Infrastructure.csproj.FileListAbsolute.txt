@@ -1,0 +1,15 @@
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Infrastructure\bin\Debug\net8.0\BookNest.Infrastructure.deps.json
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Infrastructure\bin\Debug\net8.0\BookNest.Infrastructure.dll
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Infrastructure\bin\Debug\net8.0\BookNest.Infrastructure.pdb
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Infrastructure\bin\Debug\net8.0\BookNest.Domain.dll
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Infrastructure\bin\Debug\net8.0\BookNest.Domain.pdb
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Infrastructure\obj\Debug\net8.0\BookNest.Infrastructure.csproj.AssemblyReference.cache
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Infrastructure\obj\Debug\net8.0\BookNest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Infrastructure\obj\Debug\net8.0\BookNest.Infrastructure.AssemblyInfoInputs.cache
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Infrastructure\obj\Debug\net8.0\BookNest.Infrastructure.AssemblyInfo.cs
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Infrastructure\obj\Debug\net8.0\BookNest.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Infrastructure\obj\Debug\net8.0\BookNest.99C85D6E.Up2Date
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Infrastructure\obj\Debug\net8.0\BookNest.Infrastructure.dll
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Infrastructure\obj\Debug\net8.0\refint\BookNest.Infrastructure.dll
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Infrastructure\obj\Debug\net8.0\BookNest.Infrastructure.pdb
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Infrastructure\obj\Debug\net8.0\ref\BookNest.Infrastructure.dll

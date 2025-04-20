@@ -1,0 +1,11 @@
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Domain\bin\Debug\net8.0\BookNest.Domain.deps.json
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Domain\bin\Debug\net8.0\BookNest.Domain.dll
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Domain\bin\Debug\net8.0\BookNest.Domain.pdb
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Domain\obj\Debug\net8.0\BookNest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Domain\obj\Debug\net8.0\BookNest.Domain.AssemblyInfoInputs.cache
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Domain\obj\Debug\net8.0\BookNest.Domain.AssemblyInfo.cs
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Domain\obj\Debug\net8.0\BookNest.Domain.csproj.CoreCompileInputs.cache
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Domain\obj\Debug\net8.0\BookNest.Domain.dll
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Domain\obj\Debug\net8.0\refint\BookNest.Domain.dll
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Domain\obj\Debug\net8.0\BookNest.Domain.pdb
+D:\Proyect NET\ProyectJazani\MundoLibro\BookNest.Domain\obj\Debug\net8.0\ref\BookNest.Domain.dll

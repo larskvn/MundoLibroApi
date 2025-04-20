@@ -1,0 +1,5 @@
+# Ignorar configuración de JetBrains IDEs
+.idea/
+
+# Ignorar archivo global.json
+global.json
